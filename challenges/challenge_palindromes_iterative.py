@@ -8,9 +8,3 @@ def is_palindrome_iterative(word):
         return True
     else:
         return False
-
-
-# word = "REVIVER"
-
-# is_palindrome_iterative(word)
-
