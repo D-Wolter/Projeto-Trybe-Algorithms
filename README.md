@@ -1,25 +1,3 @@
-# Sobre
-
-## Seção: `Algoritmos`
-
-- Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
-- Busca linear e binária
-- Ordenações e suas diferentes formas como, merge, quick, bubble, insertion e selection.
-- A necessidade de alternar entre uma e outra dependendo da necessidade do projeto.
-- Métodos recursivos vs iterativos, suas vantagens e diferenças.
-
-#
-<div align="center">
-  <a href="./screenshots/home.png">
-    <img src="./readme-imgs/project_top.webp" width="30%"></img>
-  </a>
-  <a href="./screenshots/home.png">
-    <img src="./readme-imgs/project_mid.webp" width="30%"></img>
-  </a>
-</div>
-
->Ilustração tomada de decisão para níveis de complexidade
-
 ## Projeto: `Algorithms`
 
 - Nesse projeto foi solicitado a criação de métodos com seu nível de complexidade mesurado, exigindo um patamar máximo, medindo tempo e método usando recursividade.
@@ -31,6 +9,15 @@
     </strong>
   </summary>
 
+  ## Seção: `Algoritmos`
+
+- Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
+- Busca linear e binária
+- Ordenações e suas diferentes formas como, merge, quick, bubble, insertion e selection.
+- A necessidade de alternar entre uma e outra dependendo da necessidade do projeto.
+- Métodos recursivos vs iterativos, suas vantagens e diferenças.
+  
+  
 # Challenge Study Schedule
 
 Método para identificar em uma lista de tuplas onde é definido cada aluno seu inicio e fim de estudos, em qual mais alunos estudam no mesmo horario, onde é defino um algo.
