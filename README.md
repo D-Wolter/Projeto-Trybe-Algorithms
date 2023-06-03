@@ -2,7 +2,7 @@
 
 - Nesse projeto foi solicitado a criação de métodos com seu nível de complexidade mesurado, exigindo um patamar máximo, medindo tempo e método usando recursividade.
 
-## Seção: `Algoritmos`
+## Seção: 
 
 - Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
 - Busca linear e binária
