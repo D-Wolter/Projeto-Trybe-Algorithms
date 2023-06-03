@@ -2,6 +2,13 @@
 
 - Nesse projeto foi solicitado a criação de métodos com seu nível de complexidade mesurado, exigindo um patamar máximo, medindo tempo e método usando recursividade.
 
+## Seção: `Algoritmos`
+
+- Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
+- Busca linear e binária
+- Ordenações e suas diferentes formas como, merge, quick, bubble, insertion e selection.
+- A necessidade de alternar entre uma e outra dependendo da necessidade do projeto.
+- Métodos recursivos vs iterativos, suas vantagens e diferenças.
 <details>
   <summary>
     <strong>
@@ -9,14 +16,6 @@
     </strong>
   </summary>
 
-  ## Seção: `Algoritmos`
-
-- Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
-- Busca linear e binária
-- Ordenações e suas diferentes formas como, merge, quick, bubble, insertion e selection.
-- A necessidade de alternar entre uma e outra dependendo da necessidade do projeto.
-- Métodos recursivos vs iterativos, suas vantagens e diferenças.
-  
   
 # Challenge Study Schedule
 
