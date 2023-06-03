@@ -166,3 +166,24 @@ Versão iterativa, para identificar se uma palavra é palindrome.
 
 
 </details>
+
+---
+
+## Instruções para clonar o projeto
+
+1. Clone o repositório
+  ```bash
+  $ git clone git@github.com:D-Wolter/Projeto-Trybe-Algorithms.git
+  ```
+
+2. Entre na pasta do repositório que você acabou de clonar:
+  ```bash
+  $ cd Projeto-Trybe-Algorithms
+  ```
+
+3. Crie o ambiente virtual para o projeto
+  ```bash
+  $ python3 -m venv .venv && source .venv/bin/activate
+  ```
+
+---
