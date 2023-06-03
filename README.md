@@ -1,14 +1,14 @@
 ## Projeto: `Algorithms`
 
-- Nesse projeto foi solicitado a criação de métodos com seu nível de complexidade mesurado, exigindo um patamar máximo, medindo tempo e método usando recursividade.
+- Primeiro Projeto em Ciência do Dados propostos pela Trybe,  o "Algorithms", composto por seis desafios que envolvem a resolução e otimização de algoritmos, utiliza do conceitos como recursividade/interatividade, Complexidade de tempo e espaço, aplicação de algoritmos de busca e ordenação não nativos do Python.
+
 
 ## Seção: 
 
-- Durante essa seção foi apresentada a ideia de complexidade assintótica com Big O, complexidades logaritmicas, quadraticas, cubicas, linearitmicas, etc...
-- Busca linear e binária
-- Ordenações e suas diferentes formas como, merge, quick, bubble, insertion e selection.
-- A necessidade de alternar entre uma e outra dependendo da necessidade do projeto.
-- Métodos recursivos vs iterativos, suas vantagens e diferenças.
+- Neste projeto, pude desenvolver conhecimentos como a capacidade de analisar o desempenho de um algoritmo, definir o que é algoritmo e algoritmo correto, definir ordem de complexidade ou complexidade assintótica, e compreender as notações que representam a complexidade de um algoritmo, a saber: O(1), O(n), O(log n), O(n^2), O(n^3) e O(n!). Pude trabalhar também com a definição de Complexidade de Tempo e de Espaço, com a categoria de problemas NP-Completo, combinação de funções matemáticas para análise de complexidades de algoritmos e definição de melhor, pior e médio caso em uma ordem de complexidade.
+
+Acredito que o conhecimento sobre algoritmos é fundamental para solucionar problemas gerados por entradas de dados grandiosas, e por isso é muito valorizado pelas grandes empresas de tecnologia. Sendo assim, quando se trata de grandes escalas, esse conhecimento se torna essencial e pode ser a chave para solucionar problemas que ainda não têm solução.
+
 <details>
   <summary>
     <strong>
